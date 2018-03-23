@@ -1,0 +1,9 @@
+## Interface: 70300  -- Required. game version.
+## Title: speedHelper -- Name shown when viewing AddOn list
+## Version: 1.0        --
+## Notes: Simple Speed Indicator  -- Popup title seen with mouseover on AddOn title in load screen
+## Author: fox&Janne  -- not require
+
+
+speedHelper.lua   -- required, lets WoW know what to look for
+speedHelper.xml   
