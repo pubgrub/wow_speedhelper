@@ -2,7 +2,7 @@
 <Script File="speedHelper.lua"/>
 <Frame name="speedHelper" parent="UIParent">
     <Scripts>
-        <OnLoad function="speedHelper_OnLoad"></OnLoad>
+        <OnLoad function="speedHelperr_OnLoad"></OnLoad>
         <OnEvent function="speedHelper_OnEvent"></OnEvent>
     </Scripts>
 </Frame>
